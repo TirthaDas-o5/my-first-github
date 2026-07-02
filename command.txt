@@ -1,6 +1,13 @@
+# 1. everytime on each project to start git
 git init --> means initialize git 
+
+# 2. everytime to add something
 git add . --> add . (all) to stage (we can also use the filename to take it to stage)
+
+# 3. everytime you commit
 git commit -m "first commit"
+
+
 git branch -M main
 git remote add origin https://github.com/TirthaDas-o5/my-first-github.git
 git push -u origin main
