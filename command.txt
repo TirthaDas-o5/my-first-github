@@ -1,0 +1,6 @@
+git init --> means initialize git 
+git add . --> add . (all) to stage (we can also use the filename to take it to stage)
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/TirthaDas-o5/my-first-github.git
+git push -u origin main
